@@ -10,9 +10,6 @@ data_description()
 a data frame is returned with 
  \code{varname}, \code{description}, \code{unit}
 }
-\description{
-Get variable names, description and units
-}
 \details{
 This function describe the Meteorological variables imported with \code{\link{import_bdmep}}
 
